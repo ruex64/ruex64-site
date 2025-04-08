@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+.font-press {
+  font-family: 'Press Start 2P', cursive;
+}
+.font-sharetech {
+  font-family: 'Share Tech Mono', monospace;
+}
