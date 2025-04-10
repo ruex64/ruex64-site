@@ -2,6 +2,11 @@ import React from 'react';
 
 const certificates = [
   {
+    title: 'Meta Front-End Developer',
+    date: 'Apr 2025',
+    img: 'https://res.cloudinary.com/dp4aozqfy/image/upload/fl_preserve_transparency/v1744302603/Meta_Frontend_WebDevloper_lkyjfy.jpg',
+  },
+  {
     title: 'Google UX Certificate',
     date: 'Aug 2024',
     img: 'https://res.cloudinary.com/dp4aozqfy/image/upload/fl_preserve_transparency/v1744133918/Google_Ux_certificate_hpwzdz.jpg',
